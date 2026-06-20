@@ -1,8 +1,8 @@
 # SANJAYA WebGIS — Docker Compose
 # Phase 0: core services run by default. Heavy services (geoserver, worker, fleet-ingest) use --profile full
 # Usage: cp .env.example .env && docker compose up -d
-
-version: '3.9'
+# Dev (hot-reload): docker compose up -d  → web at :5173, api at :8000
+# Prod-like:        docker compose -f docker-compose.yml up -d → web at :3000
 
 services:
 
