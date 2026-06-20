@@ -1,5 +1,6 @@
-# Dev overrides — hot reload for api and web dev server
-# This file is automatically loaded by `docker compose up`
+# Dev overrides — automatically loaded by `docker compose up`
+# Only overrides api (hot-reload). Web runs as nginx on :3000 (base config).
+# For frontend hot-reload: run `cd web && npm run dev` locally instead.
 
 services:
   api:
@@ -9,13 +10,3 @@ services:
     command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
     environment:
       SEED_DIR: /seed/data
-
-  web:
-    build:
-      context: ./web
-      target: build
-    command: ["npm", "run", "dev", "--", "--host", "0.0.0.0", "--port", "5173"]
-    ports:
-      - "5173:5173"
-    environment:
-      VITE_API_BASE: http://localhost:8000/api/v1
