@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tambang Batu Bara Blok-1 Kutai Timur",
+        "iup_nomor": "188.4/xxx/2019",
+        "pemegang_iup": "PT Kaltim Prima Coal (KPC)",
+        "komoditas": "Batu Bara",
+        "status": "Operasi Produksi",
+        "luas_ha": 6336.5,
+        "koordinat_tengah": [
+          117.4993,
+          0.4346
+        ],
+        "source": "Derived from OpenStreetMap data © ODbL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.3222677,
+              0.070123
+            ],
+            [
+              117.6763505,
+              0.070123
+            ],
+            [
+              117.6763505,
+              0.7990658
+            ],
+            [
+              117.3222677,
+              0.7990658
+            ],
+            [
+              117.3222677,
+              0.070123
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

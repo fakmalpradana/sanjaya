@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kpc",
+    "nama": "PT Kaltim Prima Coal (KPC)",
+    "lokasi": "Sangatta, Kutai Timur",
+    "produksi_mtpa": 60,
+    "coal_type": "Sub-bituminus",
+    "lon": 117.55,
+    "lat": 0.35
+  },
+  {
+    "id": "adaro",
+    "nama": "PT Adaro Indonesia",
+    "lokasi": "Tabalong, Kalimantan Selatan",
+    "produksi_mtpa": 65,
+    "coal_type": "Sub-bituminus",
+    "lon": 115.48,
+    "lat": -2.2
+  },
+  {
+    "id": "berau",
+    "nama": "PT Berau Coal",
+    "lokasi": "Berau, Kalimantan Timur",
+    "produksi_mtpa": 35,
+    "coal_type": "Sub-bituminus",
+    "lon": 117.4,
+    "lat": 2.1
+  },
+  {
+    "id": "arutmin",
+    "nama": "PT Arutmin Indonesia",
+    "lokasi": "Kotabaru, Kalimantan Selatan",
+    "produksi_mtpa": 30,
+    "coal_type": "Bituminus",
+    "lon": 116.23,
+    "lat": -2.89
+  },
+  {
+    "id": "kideco",
+    "nama": "PT Kideco Jaya Agung",
+    "lokasi": "Paser, Kalimantan Timur",
+    "produksi_mtpa": 40,
+    "coal_type": "Sub-bituminus",
+    "lon": 115.92,
+    "lat": -1.87
+  }
+]

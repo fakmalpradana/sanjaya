@@ -1,41 +1,98 @@
 {
   "kpis": [
-    { "label": "Clean & Clear",    "en": "AREA STATUS",       "val": "78",   "unit": "%",    "color": "#52B788" },
-    { "label": "Total Bidang",     "en": "TOTAL PARCELS",     "val": "142",  "unit": "bid",  "color": "#4A9EFF" },
-    { "label": "Nilai Pembebasan", "en": "TOTAL ACQUISITION", "val": "97.2", "unit": "Rp M", "color": "#FFD23F" },
-    { "label": "Area Konflik",     "en": "CONFLICT AREA",     "val": "45.2", "unit": "ha",   "color": "#FF4D4D" }
+    {
+      "label": "Clean & Clear",
+      "en": "AREA STATUS",
+      "val": "100",
+      "unit": "%",
+      "color": "#52B788"
+    },
+    {
+      "label": "Total Bidang",
+      "en": "TOTAL PARCELS",
+      "val": "13",
+      "unit": "bid",
+      "color": "#4A9EFF"
+    },
+    {
+      "label": "Nilai Pembebasan",
+      "en": "TOTAL ACQUISITION",
+      "val": "97.2",
+      "unit": "Rp M",
+      "color": "#FFD23F"
+    },
+    {
+      "label": "Area Konflik",
+      "en": "CONFLICT AREA",
+      "val": "45.2",
+      "unit": "ha",
+      "color": "#FF4D4D"
+    }
   ],
   "parcel_cols": [
     {
-      "name": "Belum Identifikasi", "color": "#EDE6D6", "count": 12,
+      "name": "Belum Identifikasi",
+      "color": "#EDE6D6",
+      "count": 4,
       "items": [
-        { "nib": "13.02.xx.xxxx.001", "meta": "±3.2 ha · Blok Timur" },
-        { "nib": "13.02.xx.xxxx.002", "meta": "±1.8 ha · Blok Timur" }
+        {
+          "nib": "13.02.xx.xxxx.001",
+          "meta": "±98.6 ha · Blok Timur"
+        },
+        {
+          "nib": "13.02.xx.xxxx.001",
+          "meta": "±53.8 ha · Blok Timur"
+        },
+        {
+          "nib": "13.02.xx.xxxx.001",
+          "meta": "±135.9 ha · Blok Timur"
+        },
+        {
+          "nib": "13.02.xx.xxxx.001",
+          "meta": "±211.8 ha · Blok Timur"
+        }
       ]
     },
     {
-      "name": "Inventarisasi", "color": "#FBF7EF", "count": 18,
+      "name": "Inventarisasi",
+      "color": "#FBF7EF",
+      "count": 6,
       "items": [
-        { "nib": "13.02.01.0012.003", "meta": "2.4 ha · Budi Santoso" },
-        { "nib": "13.02.01.0012.004", "meta": "1.1 ha · Siti Rahayu" }
+        {
+          "nib": "13.02.01.6970000",
+          "meta": "454 ha · Berau"
+        },
+        {
+          "nib": "13.02.01.6970001",
+          "meta": "4850 ha · Kideco"
+        }
       ]
     },
     {
-      "name": "Negosiasi", "color": "#FFF5EE", "count": 16,
-      "items": [
-        { "nib": "13.02.01.0013.010", "meta": "3.1 ha · Rp 1.24 M" },
-        { "nib": "13.02.01.0013.011", "meta": "2.8 ha · Rp 1.12 M" }
-      ]
-    },
-    {
-      "name": "Diajukan / ACC", "color": "#FFFBEE", "count": 0,
+      "name": "Negosiasi",
+      "color": "#FFF5EE",
+      "count": 0,
       "items": []
     },
     {
-      "name": "Dibebaskan ✓", "color": "#F0FBF4", "count": 96,
+      "name": "Diajukan / ACC",
+      "color": "#FFFBEE",
+      "count": 0,
+      "items": []
+    },
+    {
+      "name": "Dibebaskan ✓",
+      "color": "#F0FBF4",
+      "count": 13,
       "items": [
-        { "nib": "13.02.01.0010.001", "meta": "SHM · 2.2 ha · Lunas" },
-        { "nib": "13.02.01.0010.002", "meta": "SHM · 1.8 ha · Lunas" }
+        {
+          "nib": "13.02.01.3928582",
+          "meta": "SHM · 893 ha · Lunas"
+        },
+        {
+          "nib": "13.02.01.7882056",
+          "meta": "SHM · 4780 ha · Lunas"
+        }
       ]
     }
   ],

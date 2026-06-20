@@ -1,9 +1,79 @@
 [
-  { "id": "DT-001", "type": "Dump Truck 100t",    "status": "Hauling",   "fuel_pct": 72, "position": [115.2341, -2.3420], "color": "#52B788" },
-  { "id": "DT-002", "type": "Dump Truck 100t",    "status": "Loading",   "fuel_pct": 88, "position": [115.2335, -2.3412], "color": "#FFD23F" },
-  { "id": "DT-003", "type": "Dump Truck 100t",    "status": "Dumping",   "fuel_pct": 45, "position": [115.2350, -2.3430], "color": "#4A9EFF" },
-  { "id": "DT-004", "type": "Dump Truck 100t",    "status": "Idle",      "fuel_pct": 61, "position": [115.2338, -2.3418], "color": "#8A8270" },
-  { "id": "DT-005", "type": "Dump Truck 100t",    "status": "Breakdown", "fuel_pct": 30, "position": [115.2330, -2.3425], "color": "#FF4D4D" },
-  { "id": "EX-001", "type": "Excavator PC-1250",  "status": "Loading",   "fuel_pct": 80, "position": [115.2332, -2.3410], "color": "#FFD23F" },
-  { "id": "EX-002", "type": "Excavator PC-1250",  "status": "Idle",      "fuel_pct": 92, "position": [115.2345, -2.3422], "color": "#8A8270" }
+  {
+    "id": "DT-001",
+    "type": "Dump Truck 100t",
+    "status": "Hauling",
+    "fuel_pct": 72,
+    "position": [
+      117.512,
+      0.412
+    ],
+    "color": "#52B788"
+  },
+  {
+    "id": "DT-002",
+    "type": "Dump Truck 100t",
+    "status": "Loading",
+    "fuel_pct": 88,
+    "position": [
+      117.495,
+      0.423
+    ],
+    "color": "#FFD23F"
+  },
+  {
+    "id": "DT-003",
+    "type": "Dump Truck 100t",
+    "status": "Dumping",
+    "fuel_pct": 45,
+    "position": [
+      117.52,
+      0.40499999999999997
+    ],
+    "color": "#4A9EFF"
+  },
+  {
+    "id": "DT-004",
+    "type": "Dump Truck 100t",
+    "status": "Idle",
+    "fuel_pct": 61,
+    "position": [
+      117.502,
+      0.418
+    ],
+    "color": "#8A8270"
+  },
+  {
+    "id": "DT-005",
+    "type": "Dump Truck 100t",
+    "status": "Breakdown",
+    "fuel_pct": 30,
+    "position": [
+      117.49,
+      0.43
+    ],
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "EX-001",
+    "type": "Excavator PC-1250",
+    "status": "Loading",
+    "fuel_pct": 80,
+    "position": [
+      117.497,
+      0.425
+    ],
+    "color": "#FFD23F"
+  },
+  {
+    "id": "EX-002",
+    "type": "Excavator PC-1250",
+    "status": "Idle",
+    "fuel_pct": 92,
+    "position": [
+      117.515,
+      0.415
+    ],
+    "color": "#8A8270"
+  }
 ]

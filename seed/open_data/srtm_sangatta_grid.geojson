@@ -1,0 +1,1305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 21.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 84.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 58.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 80.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 12.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 3.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 26.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 64.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 52.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 114.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 37.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 25.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 72.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 105.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 78.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 96.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 17.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 27.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 118.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 234.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 179.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 11.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 58.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 79.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 99.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 107.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 200.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 80.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 93.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 70.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 66.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 88.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 32.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 5.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 114.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 110.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 66.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 49.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 86.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 165.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 79.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 127.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 146.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 151.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 67.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 37.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 11.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 13.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 6.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 113.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 195.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 197.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 142.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 34.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 94.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 51.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 83.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 149.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 89.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 121.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 82.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 61.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 58.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 56.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 114.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 48.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8,
+          0.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation_m": 74.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9,
+          0.9
+        ]
+      }
+    }
+  ]
+}
