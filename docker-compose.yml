@@ -127,7 +127,7 @@ services:
     volumes:
       - ./config/pygeoapi.yml:/pygeoapi/config.yml:ro
     ports:
-      - "5000:80"
+      - "5001:80"
 
   # ── HEAVY SERVICES (start with: docker compose --profile full up -d) ──────────
 
