@@ -1,0 +1,103 @@
+{
+  "kpis": [
+    { "label": "Clean & Clear",    "en": "AREA STATUS",       "val": "78",   "unit": "%",    "color": "#52B788" },
+    { "label": "Total Bidang",     "en": "TOTAL PARCELS",     "val": "142",  "unit": "bid",  "color": "#4A9EFF" },
+    { "label": "Nilai Pembebasan", "en": "TOTAL ACQUISITION", "val": "97.2", "unit": "Rp M", "color": "#FFD23F" },
+    { "label": "Area Konflik",     "en": "CONFLICT AREA",     "val": "45.2", "unit": "ha",   "color": "#FF4D4D" }
+  ],
+  "parcel_cols": [
+    {
+      "name": "Belum Identifikasi", "color": "#EDE6D6", "count": 12,
+      "items": [
+        { "nib": "13.02.xx.xxxx.001", "meta": "±3.2 ha · Blok Timur" },
+        { "nib": "13.02.xx.xxxx.002", "meta": "±1.8 ha · Blok Timur" }
+      ]
+    },
+    {
+      "name": "Inventarisasi", "color": "#FBF7EF", "count": 18,
+      "items": [
+        { "nib": "13.02.01.0012.003", "meta": "2.4 ha · Budi Santoso" },
+        { "nib": "13.02.01.0012.004", "meta": "1.1 ha · Siti Rahayu" }
+      ]
+    },
+    {
+      "name": "Negosiasi", "color": "#FFF5EE", "count": 16,
+      "items": [
+        { "nib": "13.02.01.0013.010", "meta": "3.1 ha · Rp 1.24 M" },
+        { "nib": "13.02.01.0013.011", "meta": "2.8 ha · Rp 1.12 M" }
+      ]
+    },
+    {
+      "name": "Diajukan / ACC", "color": "#FFFBEE", "count": 0,
+      "items": []
+    },
+    {
+      "name": "Dibebaskan ✓", "color": "#F0FBF4", "count": 96,
+      "items": [
+        { "nib": "13.02.01.0010.001", "meta": "SHM · 2.2 ha · Lunas" },
+        { "nib": "13.02.01.0010.002", "meta": "SHM · 1.8 ha · Lunas" }
+      ]
+    }
+  ],
+  "permits": [
+    {
+      "name": "IUP Operasi Produksi",
+      "code": "188.4/xxx/2019",
+      "status": "PERPANJANG SEGERA",
+      "days_left": "90 hari",
+      "pct_remaining": 8,
+      "color": "#FF4D4D",
+      "fg": "#fff"
+    },
+    {
+      "name": "PPKH Sektor A",
+      "code": "SK.xxx/MenLHK/2021",
+      "status": "AKTIF",
+      "days_left": "412 hari",
+      "pct_remaining": 68,
+      "color": "#52B788",
+      "fg": "#141414"
+    },
+    {
+      "name": "Dokumen AMDAL",
+      "code": "DINAS-LH/xxx/2020",
+      "status": "AKTIF",
+      "days_left": "620 hari",
+      "pct_remaining": 82,
+      "color": "#52B788",
+      "fg": "#141414"
+    },
+    {
+      "name": "RKAB 2026",
+      "code": "ESDM/xxx/2026",
+      "status": "AKTIF",
+      "days_left": "189 hari",
+      "pct_remaining": 52,
+      "color": "#FFD23F",
+      "fg": "#141414"
+    }
+  ],
+  "conflicts": [
+    {
+      "area": "Blok Barat Daya — 12.4 ha",
+      "issue": "Masuk kawasan Hutan Produksi Terbatas (HPT) tanpa PPKH. Risiko sanksi pidana.",
+      "color": "#FF4D4D",
+      "sev": "KRITIS",
+      "tint": "#FFF0F0"
+    },
+    {
+      "area": "Rencana Pit Fase-4 — 8.7 ha",
+      "issue": "Crossing 16 bidang tanah belum dibebaskan (status Inventarisasi & Negosiasi).",
+      "color": "#FF7A30",
+      "sev": "TINGGI",
+      "tint": "#FFF5EE"
+    },
+    {
+      "area": "Ramp Utara — 2.1 ha",
+      "issue": "Overlap buffer zona permukiman (RTRW Kab. 100m). Perlu review KKPR.",
+      "color": "#FFD23F",
+      "sev": "SEDANG",
+      "tint": "#FFFBEE"
+    }
+  ]
+}

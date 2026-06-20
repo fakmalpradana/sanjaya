@@ -1,0 +1,24 @@
+{
+  "kpis": [
+    { "id": "rom_production",  "label": "Produksi ROM",    "en": "ROM PRODUCTION",  "val": "284",  "unit": "kt",     "trend": "+12%",     "trend_bg": "#52B788", "sub": "vs bulan lalu",    "color": "#FFD23F" },
+    { "id": "stripping_ratio", "label": "Stripping Ratio", "en": "STRIPPING RATIO", "val": "4.2",  "unit": "bcm/t",  "trend": "−0.3",     "trend_bg": "#52B788", "sub": "vs target 4.5",    "color": "#52B788" },
+    { "id": "coal_getting",    "label": "Coal Getting",    "en": "COAL GETTING",    "val": "267",  "unit": "kt",     "trend": "+8%",      "trend_bg": "#52B788", "sub": "rencana 255 kt",   "color": "#FFD23F" },
+    { "id": "bbm_per_ton",     "label": "BBM / Ton",       "en": "FUEL / TON",      "val": "3.8",  "unit": "L/t",    "trend": "+0.4",     "trend_bg": "#FF4D4D", "sub": "target 3.5 L/t",   "color": "#FF7A30" },
+    { "id": "cash_cost",       "label": "Cash Cost",       "en": "CASH COST",       "val": "28.4", "unit": "$/t",    "trend": "+1.2",     "trend_bg": "#FF4D4D", "sub": "target $27/t",     "color": "#FF4D4D" },
+    { "id": "rkab_progress",   "label": "Kemajuan RKAB",  "en": "RKAB PROGRESS",   "val": "68",   "unit": "%",      "trend": "ON TRACK", "trend_bg": "#52B788", "sub": "target 67% YTD",   "color": "#52B788" }
+  ],
+  "prod_bars": [
+    { "m": "Agu", "plan_pct": 85, "act_pct": 72 },
+    { "m": "Sep", "plan_pct": 88, "act_pct": 90 },
+    { "m": "Okt", "plan_pct": 90, "act_pct": 94 },
+    { "m": "Nov", "plan_pct": 85, "act_pct": 88 },
+    { "m": "Des", "plan_pct": 82, "act_pct": 76 },
+    { "m": "Jan", "plan_pct": 88, "act_pct": 95 }
+  ],
+  "land_status": {
+    "clean_pct": 78,
+    "parcels_free": 96,
+    "parcels_total": 142,
+    "nilai_rp_m": 48.6
+  }
+}

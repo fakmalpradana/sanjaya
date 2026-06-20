@@ -1,0 +1,8 @@
+[
+  { "id": 1, "date": "2025-07-10", "label": "Jul '25", "sensor": "DJI M300 + L1",         "gsd_cm": 4.2 },
+  { "id": 2, "date": "2025-08-22", "label": "Agu '25", "sensor": "DJI Phantom 4 RTK",     "gsd_cm": 3.8 },
+  { "id": 3, "date": "2025-10-05", "label": "Okt '25", "sensor": "Riegl VUX-1 UAV",       "gsd_cm": 2.5 },
+  { "id": 4, "date": "2025-11-18", "label": "Nov '25", "sensor": "DJI M300 + L1",         "gsd_cm": 3.5 },
+  { "id": 5, "date": "2025-12-30", "label": "Des '25", "sensor": "DJI M300 + L1",         "gsd_cm": 3.5 },
+  { "id": 6, "date": "2026-01-15", "label": "Jan '26", "sensor": "DJI M300 + L1 (LiDAR)","gsd_cm": 3.2 }
+]

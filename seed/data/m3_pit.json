@@ -1,0 +1,24 @@
+{
+  "designs": [
+    {
+      "id": "pit-blok1-v32",
+      "name": "Pit Blok-1 v3.2",
+      "phase": "Phase-3",
+      "epoch_ref": 6,
+      "created": "2026-01-10",
+      "components": [
+        { "c": "Bench Height",    "v": "10 m" },
+        { "c": "Berm Width",      "v": "5 m" },
+        { "c": "Batter Angle",    "v": "65°" },
+        { "c": "Overall Slope",   "v": "42°" },
+        { "c": "Ramp Grade",      "v": "8%" },
+        { "c": "Blok Material",   "v": "Batubara / OB" }
+      ],
+      "deviation": {
+        "max_fill": "+1.8 m",
+        "max_cut": "−2.4 m",
+        "out_of_tolerance_pct": "3.2%"
+      }
+    }
+  ]
+}

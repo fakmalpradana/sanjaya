@@ -1,0 +1,52 @@
+[
+  {
+    "id": "a1",
+    "severity": "KRITIS",
+    "module": "M7 · Geoteknik",
+    "title": "Lereng Utara Pit-3 mendekati ambang FK",
+    "description": "Segmen N3 FK=1.18 (min 1.20). PK=11.2% (maks 10%). Tinjau geometri lereng segera.",
+    "color": "#FF4D4D",
+    "bg_tint": "#FFF0F0",
+    "time_ago": "12 mnt lalu"
+  },
+  {
+    "id": "a2",
+    "severity": "TINGGI",
+    "module": "M3 · Pit Design",
+    "title": "Deviasi bench desain >2m di Blok SE-12",
+    "description": "Design-to-actual mencapai −2.4m pada bench elev. 52m. Luas di luar toleransi 3.2%.",
+    "color": "#FF7A30",
+    "bg_tint": "#FFF5EE",
+    "time_ago": "28 mnt lalu"
+  },
+  {
+    "id": "a3",
+    "severity": "TINGGI",
+    "module": "M2 · Stockpile",
+    "title": "Anomali volume ROM-B turun 15.3% dalam 24 jam",
+    "description": "Volume ROM-B berkurang 5.502 m³ melebihi ambang ±3%. Verifikasi survei ulang diperlukan.",
+    "color": "#FF7A30",
+    "bg_tint": "#FFF5EE",
+    "time_ago": "1 jam lalu"
+  },
+  {
+    "id": "a4",
+    "severity": "SEDANG",
+    "module": "M4 · Armada",
+    "title": "DT-004 idle >45 menit di loading point P2",
+    "description": "Antrian loader P2 menumpuk. 3 DT menunggu, cycle time naik 18%.",
+    "color": "#FFD23F",
+    "bg_tint": "#FFFBEE",
+    "time_ago": "2 jam lalu"
+  },
+  {
+    "id": "a5",
+    "severity": "SEDANG",
+    "module": "M8 · Perizinan",
+    "title": "IUP Operasi Produksi kedaluwarsa dalam 90 hari",
+    "description": "IUP-OP No. 188.4/xxx/2019 berlaku hingga 15 April 2026. Proses perpanjangan perlu dimulai segera.",
+    "color": "#FFD23F",
+    "bg_tint": "#FFFBEE",
+    "time_ago": "Hari ini"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "r1",
+    "title": "Penyeimbangan Armada",
+    "description": "Pindahkan 2 unit DT dari loader P1 ke P2. Estimasi cycle time turun 18% dan BBM hemat 8%.",
+    "impact": "BBM −8%",
+    "chip_color": "#52B788"
+  },
+  {
+    "id": "r2",
+    "title": "Survei Ulang ROM-B",
+    "description": "Anomali volume −15.3% melebihi ambang ±3%. Jadwalkan terbang drone dalam 48 jam untuk verifikasi.",
+    "impact": "SEGERA",
+    "chip_color": "#FF4D4D"
+  },
+  {
+    "id": "r3",
+    "title": "Revisi Geometri Lereng N3",
+    "description": "FK=1.18 di bawah minimum 1.20. Kurangi slope angle dari 48° ke 44° untuk FK ≥1.30.",
+    "impact": "KESELAMATAN",
+    "chip_color": "#FF7A30"
+  },
+  {
+    "id": "r4",
+    "title": "Mulai Perpanjangan IUP",
+    "description": "IUP-OP kedaluwarsa 15 Apr 2026 (90 hari). Proses memerlukan minimal 60 hari. Siapkan dokumen RKAB.",
+    "impact": "REGULASI",
+    "chip_color": "#4A9EFF"
+  }
+]

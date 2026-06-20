@@ -1,0 +1,7 @@
+[
+  { "id": "n1",   "seg": "N1 — Utara Blok-1",   "fk": 1.68, "pk": 3.2,  "status": "AMAN",    "color": "#52B788" },
+  { "id": "n2",   "seg": "N2 — Utara Blok-2",   "fk": 1.45, "pk": 5.8,  "status": "AMAN",    "color": "#52B788" },
+  { "id": "n3",   "seg": "N3 — Utara Pit-3",    "fk": 1.18, "pk": 11.2, "status": "KRITIS",  "color": "#FF4D4D" },
+  { "id": "s1",   "seg": "S1 — Selatan Blok-1", "fk": 1.82, "pk": 2.1,  "status": "AMAN",    "color": "#52B788" },
+  { "id": "se12", "seg": "SE-12 — Timur Blok-2","fk": 1.28, "pk": 8.4,  "status": "WASPADA", "color": "#FF7A30" }
+]

@@ -1,0 +1,64 @@
+# pygeoapi configuration for SANJAYA OGC API Features
+# Phase 0: minimal config. Collections added in Phase 1 when PostGIS data is live.
+
+server:
+  bind:
+    host: 0.0.0.0
+    port: 80
+  url: http://localhost:5000
+  mimetype: application/json; charset=UTF-8
+  encoding: utf-8
+  language: id
+  cors: true
+  pretty_print: true
+
+logging:
+  level: ERROR
+  logfile: /tmp/pygeoapi.log
+
+metadata:
+  identification:
+    title: SANJAYA OGC API Features
+    description: >
+      OGC API Features endpoint for SANJAYA WebGIS Tambang Batu Bara.
+      Provides standardized geospatial data access (WFS3) for vector layers.
+    keywords:
+      - mining
+      - coal
+      - webgis
+      - geospatial
+      - indonesia
+    version: '0.1.0'
+  provider:
+    name: SANJAYA WebGIS
+  contact:
+    email: admin@sanjaya.local
+
+resources:
+  # Phase 1+: add real PostGIS collections here
+  # Example structure (uncomment and configure when DB is populated):
+  #
+  # pit_boundary:
+  #   type: collection
+  #   title: Batas Pit / Pit Boundary
+  #   description: Batas rencana penambangan per blok
+  #   extents:
+  #     spatial:
+  #       bbox: [114.0, -4.0, 117.0, -1.0]
+  #       crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
+  #   providers:
+  #     - type: feature
+  #       name: PostgreSQL
+  #       data:
+  #         host: postgis
+  #         port: 5432
+  #         dbname: sanjaya
+  #         user: sanjaya
+  #         password: ${DB_PASSWORD}
+  #         search_path: [public]
+  #       id_field: id
+  #       table: pit_boundary
+  #       geometry:
+  #         type: name
+  #         properties:
+  #           name: geom

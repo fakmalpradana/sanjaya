@@ -1,0 +1,49 @@
+# Environment — never commit secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / Frontend
+node_modules/
+web/dist/
+web/.vite/
+web/coverage/
+*.tsbuildinfo
+
+# Docker volume bind mounts (if you run locally)
+pgdata/
+tsdata/
+miniodata/
+redisdata/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Tiler output (Phase 1+)
+tiler/output/
+*.laz
+*.las

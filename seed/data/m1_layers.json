@@ -1,0 +1,10 @@
+[
+  { "id": "dtm",        "label": "DTM / Terrain",       "active": true,  "color": "#FF7A30" },
+  { "id": "ortho",      "label": "Ortofoto Drone",       "active": true,  "color": "#52B788" },
+  { "id": "pointcloud", "label": "Point Cloud",          "active": false, "color": "#4A9EFF" },
+  { "id": "pitdesign",  "label": "Pit Design",           "active": true,  "color": "#FFD23F" },
+  { "id": "fleet",      "label": "Armada (Fleet)",       "active": true,  "color": "#FF4D4D" },
+  { "id": "stockpile",  "label": "Stockpile",            "active": true,  "color": "#FF7A30" },
+  { "id": "geotech",    "label": "Geoteknik",            "active": false, "color": "#9B59B6" },
+  { "id": "wiup",       "label": "Batas WIUP / IUP",    "active": true,  "color": "#141414" }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rom-a",
+    "name": "ROM-A",
+    "material": "Batu Bara ROM",
+    "volume_m3": 42850,
+    "tonase": 57247,
+    "delta_pct": 8.2,
+    "color": "#FFD23F",
+    "spark": [40, 55, 62, 70, 65, 85],
+    "anomaly": false,
+    "detail": {
+      "base_plane": "Best-fit plane",
+      "toe_polygon": "Manual — 142 vertex",
+      "cut_fill": "+3.847 m³",
+      "uncertainty": "±2.1%",
+      "method": "UAV Fotogrametri",
+      "trend_bars": [
+        { "m": "Agu", "h": 55 }, { "m": "Sep", "h": 62 }, { "m": "Okt", "h": 70 },
+        { "m": "Nov", "h": 65 }, { "m": "Des", "h": 75 }, { "m": "Jan", "h": 85 }
+      ]
+    }
+  },
+  {
+    "id": "rom-b",
+    "name": "ROM-B",
+    "material": "Batu Bara ROM",
+    "volume_m3": 31200,
+    "tonase": 41704,
+    "delta_pct": -15.3,
+    "color": "#FF7A30",
+    "spark": [80, 75, 70, 60, 55, 40],
+    "anomaly": true,
+    "detail": {
+      "base_plane": "Bidang datar RL+42m",
+      "toe_polygon": "Semi-otomatis — 98 vertex",
+      "cut_fill": "−5.502 m³",
+      "uncertainty": "±2.8%",
+      "method": "UAV LiDAR (Riegl VUX-1)",
+      "trend_bars": [
+        { "m": "Agu", "h": 80 }, { "m": "Sep", "h": 75 }, { "m": "Okt", "h": 70 },
+        { "m": "Nov", "h": 60 }, { "m": "Des", "h": 55 }, { "m": "Jan", "h": 40 }
+      ]
+    }
+  },
+  {
+    "id": "sp-a",
+    "name": "SP-A (Finished)",
+    "material": "Batu Bara Grade A (>6000 kkal)",
+    "volume_m3": 18650,
+    "tonase": 24929,
+    "delta_pct": 3.1,
+    "color": "#52B788",
+    "spark": [30, 40, 45, 50, 55, 60],
+    "anomaly": false,
+    "detail": {
+      "base_plane": "Triangulated base",
+      "toe_polygon": "Manual — 64 vertex",
+      "cut_fill": "+578 m³",
+      "uncertainty": "±1.9%",
+      "method": "UAV Fotogrametri",
+      "trend_bars": [
+        { "m": "Agu", "h": 30 }, { "m": "Sep", "h": 40 }, { "m": "Okt", "h": 45 },
+        { "m": "Nov", "h": 50 }, { "m": "Des", "h": 55 }, { "m": "Jan", "h": 60 }
+      ]
+    }
+  },
+  {
+    "id": "sp-b",
+    "name": "SP-B",
+    "material": "Batu Bara Grade B (5500–6000 kkal)",
+    "volume_m3": 9400,
+    "tonase": 12562,
+    "delta_pct": -2.4,
+    "color": "#4A9EFF",
+    "spark": [60, 55, 50, 48, 45, 42],
+    "anomaly": false,
+    "detail": {
+      "base_plane": "Best-fit plane",
+      "toe_polygon": "Semi-otomatis — 52 vertex",
+      "cut_fill": "−226 m³",
+      "uncertainty": "±2.4%",
+      "method": "UAV Fotogrametri",
+      "trend_bars": [
+        { "m": "Agu", "h": 60 }, { "m": "Sep", "h": 55 }, { "m": "Okt", "h": 50 },
+        { "m": "Nov", "h": 48 }, { "m": "Des", "h": 45 }, { "m": "Jan", "h": 42 }
+      ]
+    }
+  }
+]

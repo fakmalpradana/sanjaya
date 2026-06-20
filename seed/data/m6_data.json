@@ -1,0 +1,17 @@
+{
+  "datasets": [
+    { "name": "DTM Blok-1 Jan '26",   "type": "GeoTIFF", "size": "2.4 GB",  "crs": "EPSG:32750 / Jan '26", "color": "#FFD23F" },
+    { "name": "Point Cloud Jan '26",  "type": "LAZ",     "size": "18.7 GB", "crs": "EPSG:32750 / Jan '26", "color": "#4A9EFF" },
+    { "name": "Ortofoto Jan '26",     "type": "GeoTIFF", "size": "4.1 GB",  "crs": "EPSG:32750 / Jan '26", "color": "#52B788" },
+    { "name": "Pit Design v3.2",      "type": "DXF",     "size": "12 MB",   "crs": "EPSG:32750 / —",       "color": "#FF7A30" },
+    { "name": "Batas WIUP / IUP",     "type": "GeoJSON", "size": "48 KB",   "crs": "EPSG:4326 / —",        "color": "#FF4D4D" }
+  ],
+  "connectors": [
+    { "name": "WebODM Pipeline",   "proto": "REST API",          "status": "AKTIF",       "color": "#52B788", "animated": true  },
+    { "name": "DJI Terra Export",  "proto": "File Watch / SFTP", "status": "AKTIF",       "color": "#52B788", "animated": true  },
+    { "name": "Fleet Telematik",   "proto": "MQTT / IoT",        "status": "AKTIF",       "color": "#52B788", "animated": true  },
+    { "name": "GeoKKP / ATR-BPN", "proto": "WFS (butuh PKS)",   "status": "PENDING",     "color": "#FF7A30", "animated": false },
+    { "name": "MOMI ESDM",        "proto": "WFS / API Key",     "status": "PENDING",     "color": "#FF7A30", "animated": false },
+    { "name": "ERP Produksi",     "proto": "REST API",          "status": "TIDAK AKTIF", "color": "#8A8270", "animated": false }
+  ]
+}
